@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,6 +19,12 @@
         <p>Name: Adam Cassidy</p>
         <p>Email: ACassidy617@gmail.com</p>
         <p>Mobile Phone: (289) 684-6057</p>
+    </div>
+    <div class="contact">
+        <h4>Skills</h4>
+        <p>- Quick Learner</p>
+        <p>- Coordinated</p>
+        <p>- Punctual</p>
     </div>
 </body>
 </html>
